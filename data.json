@@ -1,9 +1,4 @@
 {
     "fighters" : {
-            "Unca" : "../S0513/img/catto.png",
-            "Mooca": "../S0513/img/catty.png",
-            "Poe" : "../S0513/img/crowy.png",
-            "Noot" : "../S0513/img/pinguu.png",
-            "Approuved" : "../S0513/img/sealy.png"
-    }
+            "Catto" : "../S0513/img/catto.png"    }
 }
